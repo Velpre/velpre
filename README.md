@@ -1,10 +1,5 @@
 
 
-
-<p align="center">
-  Hello world, I`m Veljko Premovic 
-</p>
-
  [![Visits Badge](https://badges.pufler.dev/visits/velpre/velpre)](https://badges.pufler.dev)
 
  [![Repos Badge](https://badges.pufler.dev/repos/velpre)](https://badges.pufler.dev) 
