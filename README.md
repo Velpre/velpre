@@ -11,7 +11,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=velpre&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11123045781&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 <br>
-#### _Languages and tools_
+#### Languages and tools
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,7 +23,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-#### _Contact_
+#### Contact
 
 <a href="https://www.linkedin.com/in/vepo/">
   <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
