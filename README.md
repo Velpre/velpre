@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=velpre&left_color=lightgrey&right_color=red)
 # Hello world, I`m Veljko Premovic
 
 
