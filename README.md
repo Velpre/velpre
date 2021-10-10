@@ -5,7 +5,7 @@
  [![Repos Badge](https://badges.pufler.dev/repos/velpre)](https://badges.pufler.dev) 
  [![Commits Badge](https://badges.pufler.dev/commits/monthly/velpre)](https://badges.pufler.dev)	
 
-🌱 I’m currently learning Java & React.
+👨‍🎓 Currently learning Java & React.
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=velpre&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
@@ -15,8 +15,6 @@
 
 
 #### _Languages and tools_
-
-
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,6 +27,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 #### _Contact_
+
 <a href="https://www.linkedin.com/in/vepo/">
   <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -38,11 +37,6 @@
 <a href="https://www.facebook.com/veljko.kv/">
   <img align="left" alt="Stefanie's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
-<a href="sajmon.vp@gmail.com">
-  <img align="left" alt="Stefanie's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
-</a>
-<a href="https://www.facebook.com/veljko.kv/">
-  <img align="left" alt="Stefanie's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
-</a>
+
 
 
