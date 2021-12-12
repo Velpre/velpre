@@ -15,7 +15,7 @@
 * https://github.com/Velpre/pgr203-exam-Velpre
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=velpre&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11123045781&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=11123045781&redirect=true)
+
 <br>
 #### Languages and tools
 
