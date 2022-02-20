@@ -6,7 +6,7 @@
  [![Commits Badge](https://badges.pufler.dev/commits/monthly/velpre)](https://badges.pufler.dev)	
 <br>
 <br>
-👨‍🎓 Currently learning Java & React.
+👨‍🎓 Currently learning Node, Express & React.
 
 
 #### Some of the projects
