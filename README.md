@@ -3,7 +3,7 @@
 #### Some of the projects
 * https://velpre.github.io/sushi-bar/
 * https://bellapizza.netlify.app/
-* https://github.com/Velpre/pgr203-exam-Velpre
+* https://github.com/Velpre/Avansert-java-eksamen
 * https://github.com/Velpre/Web-utvikling-API-design-exam
 * https://eksamen2022.herokuapp.com/
 
