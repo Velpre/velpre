@@ -7,6 +7,8 @@
 * https://github.com/Velpre/Web-utvikling-API-design-exam
 * https://eksamen2022.herokuapp.com/
 
+<br>
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=velpre)](https://github.com/anuraghazra/github-readme-stats) 
  
 
