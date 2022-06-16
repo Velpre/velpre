@@ -1,5 +1,3 @@
-
-
 #### Some of the projects
 * https://velpre.github.io/sushi-bar/
 * https://bellapizza.netlify.app/
