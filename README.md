@@ -1,4 +1,4 @@
-🌱 Currently learning C# & Ionic/Vue
+🌱 Currently learning C# , Ionic/Vue & Swift
 
 #### Some of the projects
 * https://velpre.github.io/sushi-bar/
