@@ -1,4 +1,4 @@
-🌱 Currently learning Swift, Vue, Ionic, C#, Graphql
+🌱 Currently learning Swift
 
 #### Some of the projects
 * https://velpre.github.io/sushi-bar/
