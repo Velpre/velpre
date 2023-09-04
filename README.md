@@ -1,4 +1,5 @@
-🌱 Currently learning Swift
+System utvikler @Norkart. 
+Stack: React, MUI & .NET
 
 #### Some of the projects
 * https://velpre.github.io/sushi-bar/
