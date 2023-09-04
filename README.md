@@ -1,4 +1,5 @@
-System utvikler @Norkart. 
+System utvikler Norkart. 
+<br>
 Stack: React, MUI & .NET
 
 #### Some of the projects
